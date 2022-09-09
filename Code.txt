@@ -1,1 +1,2 @@
 Aqui empezare el codigo para el tema del cajero en C#
+Voy a probar si me baja con fetch
