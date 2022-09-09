@@ -1,0 +1,1 @@
+Aqui empezare el codigo para el tema del cajero en C#
